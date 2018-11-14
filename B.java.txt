@@ -1,4 +1,6 @@
 class B{
 void hello(){
 }
+void hai(){
+}
 }
