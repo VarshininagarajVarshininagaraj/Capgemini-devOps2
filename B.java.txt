@@ -3,4 +3,6 @@ void hello(){
 }
 void hai(){
 }
+
+int x=10;
 }
